@@ -47,6 +47,13 @@
     <servlet-name>ServletSession</servlet-name>
     <servlet-class>study.ServletSession</servlet-class>
   </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>loginServlet</servlet-name>
+    <servlet-class>loginServlet</servlet-class>
+  </servlet>
+
   <context-param>
     <param-name>url</param-name>
     <param-value>jdbc:mysql://localhost:3306/test</param-value>
@@ -78,6 +85,10 @@
   <servlet-mapping>
     <servlet-name>ServletSession</servlet-name>
     <url-pattern>/ServeletSession</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>loginServlet</servlet-name>
+    <url-pattern>/loginServlet</url-pattern>
   </servlet-mapping>
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
