@@ -1,0 +1,25 @@
+#course_info_div{
+    width: 60%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: solid cadetblue;
+}
+
+#course_info_table{
+    width: 100%;
+
+}
+
+#course_info_table td{
+    padding-bottom: 50px;
+}
+
+#course_add_button{
+    background: yellow;
+}
+
+#course_drop_button{
+    background: green;
+
+}

@@ -70,10 +70,6 @@
     <url-pattern>/servelet1</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
-    <servlet-name>DefaultServelet</servlet-name>
-    <url-pattern>/</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
     <servlet-name>ConfigServelet</servlet-name>
     <url-pattern>/ConfigServelet</url-pattern>
   </servlet-mapping>

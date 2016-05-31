@@ -1,0 +1,17 @@
+#admin_body{
+    background: #5bc0de;
+}
+#admin_content_div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    min-height: 500px;
+    background: white;
+    border: silver solid;
+}
+
+#admin_hello{
+    font-family: Calibri;
+    text-align: center;
+    color: red;
+}

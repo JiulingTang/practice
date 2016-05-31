@@ -1,0 +1,16 @@
+#view_gpa_div{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: solid cadetblue;
+}
+
+
+#view_gpa_table th{
+    color: aquamarine;
+}
+#view_gpa_table th,td{
+    text-align: center;
+    width: 30%;
+}

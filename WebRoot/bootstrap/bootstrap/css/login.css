@@ -1,0 +1,25 @@
+
+#login_div{
+    margin: auto;width: 25%;
+    color:whitesmoke;
+    font-family: "";
+}
+#login_div h3{
+    text-align: center;
+
+}
+
+#wellcome_div{
+    color: orange;
+    text-align: center;
+    font-family: Arial Bold;
+}
+
+#content_div{
+    background:url("http://localhost:63342/bootstrap/resource/login_background.jpg") no-repeat;
+    background-size: 100% 100%;
+    background-position: 0px 0px;
+    background-attachment: fixed;
+
+}
+

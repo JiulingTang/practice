@@ -1,0 +1,19 @@
+
+
+#head_nav{
+    background: #FFFF66;
+    margin-bottom: 0;
+}
+
+
+
+#head_nav>div>ul>li{
+    margin: 10px;
+
+}
+
+#logout_drop{
+    margin-top: 20px;
+    margin-right: 10%;
+
+}

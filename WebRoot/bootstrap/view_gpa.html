@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="icon" href="">
+    <title>Home</title>
+
+    <!-- Bootstrap -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap/css/custom.css" rel="stylesheet">
+    <link href="bootstrap/css/login.css" rel="stylesheet">
+    <link href="bootstrap/css/student.css" rel="stylesheet">
+    <link href="bootstrap/css/view_gpa.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script resource="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script resource="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="student_body">
+<div id="student_header">
+
+</div>
+<h1 id="student_hello">Hello, Jiuling Tang</h1>
+<div id="student_content_div">
+    <div class="panel panel-info" id="view_gpa_div">
+        <div class="panel-heading">
+            <p><strong>View gpa</strong></p>
+        </div>
+        <div class="panel-body " >
+            <div class="row">
+                <form class="form col-md-6">
+                    <div class="form-group ">
+                            <label class="control-label">select term</label>
+                            <select class="form-control"  name="term" id="term">
+                                <option>2015 fall</option>
+                                <option>2016 winter</option>
+                                <option>2016 summer</option>
+                                <option>2016 fall</option>
+                                <option>2016 winter</option>
+                            </select>
+                        <button type="submit" class="btn btn-default" ><span class="glyphicon glyphicon-forward" ></span></button>
+                    </div>
+                </form>
+                <table id="view_gpa_table" class="well" >
+                    <tr>
+                        <th><h3>term</h3></th>
+                        <th><h3>gpa</h3></th>
+                        <th><h3>credit</h3></th>
+                    </tr>
+                    <tr>
+                        <td>2016 winter</td>
+                        <td>3.80</td>
+                        <td>8</td>
+                    </tr>
+                </table>
+
+            </div>
+
+        </div>
+    </div>
+
+</div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bootstrap/js/custom.js"></script>
+</body>
+</html>
