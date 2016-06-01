@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="student_home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student_home.html">
+      <file leaf-file-name="admin_student_add.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_student_add.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="15.607142">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state vertical-scroll-proportion="-12.214286">
+              <caret line="62" column="19" selection-start-line="35" selection-start-column="12" selection-end-line="62" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_course_search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_course_search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2857144">
+              <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="62" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -34,8 +44,8 @@
       <file leaf-file-name="admin_student_information.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin_student_information.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.678572">
-              <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+            <state vertical-scroll-proportion="-10.178572">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -44,18 +54,8 @@
       <file leaf-file-name="admin_grade_add.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin_grade_add.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-39.357143">
-              <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin_home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin_home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.7142856">
-              <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+            <state vertical-scroll-proportion="-27.035715">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,72 +65,82 @@
         <entry file="file://$PROJECT_DIR$/bootstrap/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+              <caret line="56" column="129" selection-start-line="56" selection-start-column="129" selection-end-line="56" selection-end-column="129" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
-                <marker date="1464655909837" expanded="true" signature="137:875" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:876" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:916" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:917" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:929" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:994" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:995" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1048" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1106" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1124" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1133" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1272" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1273" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1286" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1287" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="137:1300" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="152:875" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="188:875" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="751:875" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="1397:2555" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="1412:2541" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="1448:2384" placeholder="..." />
-                <marker date="1464655909837" expanded="true" signature="1963:2371" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:875" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:876" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:916" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:917" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:929" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:994" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:995" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1048" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1106" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1124" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1133" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1281" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1282" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1295" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1296" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="137:1309" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="152:875" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="188:875" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="751:875" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="1406:2571" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="1421:2557" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="1457:2391" placeholder="..." />
+                <marker date="1464757869236" expanded="true" signature="1970:2378" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login.html">
+      <file leaf-file-name="student_course_info.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student_course_info.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4731369">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            <state vertical-scroll-proportion="-0.6785714">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_info.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/course_info.html">
+      <file leaf-file-name="student_course_search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student_course_search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.642857">
-              <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+            <state vertical-scroll-proportion="-11.535714">
+              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin_grade_add.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_grade_add.css">
+      <file leaf-file-name="admin_course_add.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin_course_add.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32928944">
+              <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_course_info.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_course_info.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="23.75">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student_course_search.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap/css/student_course_search.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin_student_information.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_student_information.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -142,8 +152,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -162,27 +172,35 @@
         <option value="$PROJECT_DIR$/bootstrap/css/student_search.css" />
         <option value="$PROJECT_DIR$/course_info.html" />
         <option value="$PROJECT_DIR$/bootstrap/css/registered_course.css" />
-        <option value="$PROJECT_DIR$/registered_course.html" />
         <option value="$PROJECT_DIR$/bootstrap/css/view_gpa.css" />
         <option value="$PROJECT_DIR$/view_gpa.html" />
         <option value="$PROJECT_DIR$/transcript.html" />
         <option value="$PROJECT_DIR$/admin_home.js" />
         <option value="$PROJECT_DIR$/bootstrap/css/admin.css" />
         <option value="$PROJECT_DIR$/admin_home.html" />
-        <option value="$PROJECT_DIR$/student_course_search.html" />
         <option value="$PROJECT_DIR$/bootstrap/css/admin_student_search.css" />
-        <option value="$PROJECT_DIR$/admin_student_search.html" />
         <option value="$PROJECT_DIR$/admin_student_add.css" />
         <option value="$PROJECT_DIR$/student_home.html" />
-        <option value="$PROJECT_DIR$/admin_student_add.html" />
         <option value="$PROJECT_DIR$/bootstrap/admin_student_information.css" />
-        <option value="$PROJECT_DIR$/admin_student_information.html" />
         <option value="$PROJECT_DIR$/bootstrap/admin_grade_add.html" />
         <option value="$PROJECT_DIR$/bootstrap/css/admin_grade_add.css" />
-        <option value="$PROJECT_DIR$/bootstrap/css/admin_student_add.css" />
         <option value="$PROJECT_DIR$/admin_grade_add.html" />
-        <option value="$PROJECT_DIR$/bootstrap/js/custom.js" />
         <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/registered_course.html" />
+        <option value="$PROJECT_DIR$/student_course_info.html" />
+        <option value="$PROJECT_DIR$/bootstrap/css/student_course_search.css" />
+        <option value="$PROJECT_DIR$/bootstrap/css/admin_student_add.css" />
+        <option value="$PROJECT_DIR$/student_search_course_result.html" />
+        <option value="$PROJECT_DIR$/bootstrap/css/student_course_search_result.css" />
+        <option value="$PROJECT_DIR$/admin_course_info.html" />
+        <option value="$PROJECT_DIR$/admin_course_search_result.html" />
+        <option value="$PROJECT_DIR$/admin_course_search.html" />
+        <option value="$PROJECT_DIR$/admin_student_search.html" />
+        <option value="$PROJECT_DIR$/admin_student_information.html" />
+        <option value="$PROJECT_DIR$/bootstrap/js/custom.js" />
+        <option value="$PROJECT_DIR$/student_course_search.html" />
+        <option value="$PROJECT_DIR$/admin_student_add.html" />
+        <option value="$PROJECT_DIR$/admin_course_add.html" />
       </list>
     </option>
   </component>
@@ -222,8 +240,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -381,6 +399,103 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/student_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_student_information.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_grade_add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+            <marker date="1464757869236" expanded="true" signature="137:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:876" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:916" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:917" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:929" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:994" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:995" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1048" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1106" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1124" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1133" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1281" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1282" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1295" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1296" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1309" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="152:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="188:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="751:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1406:2571" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1421:2557" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1457:2391" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1970:2378" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_course_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_grade_add.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_student_information.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/css/student.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -437,9 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -458,21 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/course.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view_gpa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20970537">
@@ -487,35 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transcript.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9636048">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/registered_course.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_student_search.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/student_course_search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14558059">
-          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/css/admin.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39514732">
@@ -524,50 +592,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/student.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09878683">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registered_course.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35008666">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_student_search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26863086">
-          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/student_home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49393415">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_student_information.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_student_add.css">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -580,50 +608,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/student_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="15.607142">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_grade_add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-39.357143">
-          <caret line="58" column="47" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course_info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.642857">
-          <caret line="87" column="24" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin_home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.7142856">
+        <state vertical-scroll-proportion="-9.5">
           <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin_student_add.html">
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/student.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34142116">
-          <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.55979204">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/registered_course.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19757366">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.25">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/student_course_search_result.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registered_course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5875217">
+          <caret line="61" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_student_add.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/course.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.75">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transcript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/student_home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_course_search_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.857142">
+          <caret line="16" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_course_search_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4610052">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/admin_student_search.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.071429">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_student_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.571428">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin_student_information.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.678572">
-          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+        <state vertical-scroll-proportion="-10.178572">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -631,40 +747,96 @@
     <entry file="file://$PROJECT_DIR$/bootstrap/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <caret line="56" column="129" selection-start-line="56" selection-start-column="129" selection-end-line="56" selection-end-column="129" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
-            <marker date="1464655909837" expanded="true" signature="137:875" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:876" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:916" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:917" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:929" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:994" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:995" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1048" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1106" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1124" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1133" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1272" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1273" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1286" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1287" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="137:1300" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="152:875" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="188:875" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="751:875" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="1397:2555" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="1412:2541" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="1448:2384" placeholder="..." />
-            <marker date="1464655909837" expanded="true" signature="1963:2371" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:876" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:916" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:917" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:929" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:994" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:995" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1048" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1106" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1124" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1133" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1281" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1282" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1295" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1296" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="137:1309" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="152:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="188:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="751:875" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1406:2571" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1421:2557" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1457:2391" placeholder="..." />
+            <marker date="1464757869236" expanded="true" signature="1970:2378" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/student_course_search.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4731369">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_course_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_course_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.535714">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_grade_add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.035715">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_student_add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286">
+          <caret line="62" column="19" selection-start-line="35" selection-start-column="12" selection-end-line="62" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_course_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2857144">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="62" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_course_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="23.75">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_course_add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32928944">
+          <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
           <folding />
         </state>
       </provider>

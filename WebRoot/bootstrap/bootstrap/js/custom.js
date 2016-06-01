@@ -26,7 +26,7 @@ $("#student_header").html('<nav class="navbar navbar-default" role="navigation" 
 '</ul>'+
 '</li>'+
 '</ul>'+
-'<div class="navbar-right text-center " id="logout_drop"><span class="glyphicon glyphicon-log-out"></span><a href="#"  >Logout</a></div>'+
+'<div class="navbar-right text-center " id="logout_drop"><span class="glyphicon glyphicon-log-out"></span><a href="login.html"  >Logout</a></div>'+
     '</div>'+
     '</nav>')
 
@@ -39,7 +39,7 @@ $("#admin_header").html('<nav class="navbar navbar-default" role="navigation"  i
     'Course <span class="caret"></span>'+
     '</a>'+
     '<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">'+
-    '<li><a href="student_course_search.html">Serach course</a></li>'+
+    '<li><a href="admin_course_search.html">Serach course</a></li>'+
     '<li><a href="admin_course_add.html">Add course</a></li>'+
     '</ul>'+
     '</li>'+
@@ -54,7 +54,7 @@ $("#admin_header").html('<nav class="navbar navbar-default" role="navigation"  i
     '</ul>'+
     '</li>'+
     '</ul>'+
-    '<div class="navbar-right text-center " id="logout_drop"><span class="glyphicon glyphicon-log-out"></span><a href="#"  >Logout</a></div>'+
+    '<div class="navbar-right text-center " id="logout_drop"><span class="glyphicon glyphicon-log-out"></span><a href="login.html"  >Logout</a></div>'+
     '</div>'+
     '</nav>')
 

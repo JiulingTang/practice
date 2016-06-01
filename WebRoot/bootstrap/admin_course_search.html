@@ -13,7 +13,7 @@
     <link href="bootstrap/css/custom.css" rel="stylesheet">
     <link href="bootstrap/css/login.css" rel="stylesheet">
     <link href="bootstrap/css/admin.css" rel="stylesheet">
-    <link href="bootstrap/css/admin_student_search.css" rel="stylesheet">
+    <link href="bootstrap/css/student_course_search.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -27,20 +27,42 @@
 </div>
 <h1 id="admin_hello">Hello, Admin</h1>
 <div id="admin_content_div">
-    <div class="panel panel-info" id="admin_student_search_div">
+    <div class="panel panel-info" id="student_course_search_div">
         <div class="panel-heading">
-            <p><strong>Search student</strong></p>
+            <p><strong>Search course</strong></p>
         </div>
         <div class="panel-body" >
             <form role="form">
                 <div class="form-group col-xs-8">
                     <div class="input-group">
-                        <span class="input-group-addon">Student Id</span>
+                        <span class="input-group-addon ">Term</span>
+                        <select class="form-control" name="term" id="term">
+                            <option>2015 fall</option>
+                            <option>2016 winter</option>
+                            <option>2016 summer</option>
+                            <option>2016 fall</option>
+                            <option>2016 winter</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group col-xs-8">
+                    <div class="input-group ">
+                        <span class="input-group-addon ">Subject</span>
+                        <select class="form-control" name="term" id="subject">
+                            <option>comp</option>
+                            <option>inse</option>
+                            <option>soen</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group col-xs-8">
+                    <div class="input-group">
+                        <span class="input-group-addon">number</span>
                         <input type="text" class="form-control" id="number" aria-describedby="inputGroupSuccess2Status">
                     </div>
                 </div>
                 <div class="form-group col-xs-8">
-                    <a class="btn btn-primary" href="admin_student_information.html"><span class="glyphicon"></span>Search</a>
+                    <a class="btn btn-primary" href="admin_course_search_result.html"><span class="glyphicon"></span>Search</a>
                 </div>
             </form>
 

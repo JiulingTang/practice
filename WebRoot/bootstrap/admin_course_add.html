@@ -13,7 +13,7 @@
     <link href="bootstrap/css/custom.css" rel="stylesheet">
     <link href="bootstrap/css/login.css" rel="stylesheet">
     <link href="bootstrap/css/admin.css" rel="stylesheet">
-    <link href="bootstrap/css/admin_student_add.css" rel="stylesheet">
+    <link href="bootstrap/css/admin_course_add.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -28,22 +28,36 @@
 <h1 id="admin_hello">Hello, Admin</h1>
 <div id="admin_content_div">
 
-    <div class="panel panel-info" id="admin_student_add_div" >
+    <div class="panel panel-info" id="admin_course_add_div" >
         <div class="panel-heading">
-            <p><span class="glyphicon glyphicon glyphicon-user"></span><strong>Add student</strong></p>
+            <strong>Add course</strong>
         </div>
         <div class="panel-body" >
             <form >
                 <div class="row">
                     <div class="form-group col-md-6">
-                        <label for="student_id" >Student Id</label>
-                        <input type="text" class="form-control" id="student_id" placeholder="student id">
+                        <div class="input-group ">
+                            <span class="input-group-addon ">Subject</span>
+                            <select class="form-control" name="term" id="subject">
+                                <option>comp</option>
+                                <option>inse</option>
+                                <option>soen</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <div class="input-group">
+                            <span class="input-group-addon">Course number</span>
+                            <input type="text" class="form-control" id="number" aria-describedby="inputGroupSuccess2Status">
+                        </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="form-group col-md-6">
-                        <label for="firstname" >First Name</label>
-                        <input type="password" class="form-control" id="firstname" placeholder="first name">
+                        <div class="input-group">
+                            <span class="input-group-addon">Course name</span>
+                            <input type="text" class="form-control" id="name" aria-describedby="inputGroupSuccess2Status">
+                        </div>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="lastname" >Last Name</label>

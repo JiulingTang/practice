@@ -50,6 +50,8 @@ public class ServletDemo1 extends HttpServlet {
 		out.println(", using the GET method");
 		out.println("  </BODY>");
 		out.println("</HTML>");
+		out.println(this.getServletContext().getContextPath());
+		out.println(this.getServletContext().getRealPath("/"));
 		out.flush();
 		out.close();
 	}
